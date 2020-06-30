@@ -1,0 +1,9 @@
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\bin\Debug\netcoreapp3.1\StationaryStore.Entities.deps.json
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\bin\Debug\netcoreapp3.1\StationaryStore.Entities.dll
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\bin\Debug\netcoreapp3.1\StationaryStore.Entities.pdb
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.dll
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.pdb
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.Entities\obj\Debug\netcoreapp3.1\StationaryStore.Entities.csproj.CoreCompileInputs.cache

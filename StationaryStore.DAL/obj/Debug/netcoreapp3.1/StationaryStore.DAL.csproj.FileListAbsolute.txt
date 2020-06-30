@@ -1,0 +1,12 @@
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\bin\Debug\netcoreapp3.1\StationaryStore.DAL.deps.json
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\bin\Debug\netcoreapp3.1\StationaryStore.DAL.dll
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\bin\Debug\netcoreapp3.1\StationaryStore.DAL.pdb
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\bin\Debug\netcoreapp3.1\StationaryStore.Entities.dll
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\bin\Debug\netcoreapp3.1\StationaryStore.Entities.pdb
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.csprojAssemblyReference.cache
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.AssemblyInfoInputs.cache
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.AssemblyInfo.cs
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.csproj.CopyComplete
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.dll
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.pdb
+C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.csproj.CoreCompileInputs.cache
