@@ -9,4 +9,3 @@ C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.csproj.CopyComplete
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.dll
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.pdb
-C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.DAL\obj\Debug\netcoreapp3.1\StationaryStore.DAL.csproj.CoreCompileInputs.cache

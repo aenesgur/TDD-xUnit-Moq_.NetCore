@@ -119,4 +119,3 @@ C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.API\obj\Debug\netcoreapp3.1\StationaryStore.API.dll
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.API\obj\Debug\netcoreapp3.1\StationaryStore.API.pdb
 C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.API\obj\Debug\netcoreapp3.1\StationaryStore.API.genruntimeconfig.cache
-C:\Users\enes.gur\Desktop\NetCore-TDD-Mongo-Rest\StationeryStore\StationaryStore.API\obj\Debug\netcoreapp3.1\StationaryStore.API.csproj.CoreCompileInputs.cache

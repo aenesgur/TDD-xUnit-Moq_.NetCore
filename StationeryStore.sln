@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryStore.API", "StationaryStore.API\StationaryStore.API.csproj", "{0FCDD960-5C7A-4044-A64D-B9C064D8EDF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationaryStore.API", "StationaryStore.API\StationaryStore.API.csproj", "{0FCDD960-5C7A-4044-A64D-B9C064D8EDF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryStore.Entities", "StationaryStore.Entities\StationaryStore.Entities.csproj", "{14AAB004-9A08-40D1-8141-724D008A3C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationaryStore.Entities", "StationaryStore.Entities\StationaryStore.Entities.csproj", "{14AAB004-9A08-40D1-8141-724D008A3C1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryStore.DAL", "StationaryStore.DAL\StationaryStore.DAL.csproj", "{A6A16A55-2F4B-475A-A620-947E1B4CD1FA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryStore.API.Test", "StationaryStore.API.Test\StationaryStore.API.Test.csproj", "{DC679C7D-25C4-4D7C-BA41-6AA8299C0475}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryStore.DAL.Test", "StationaryStore.DAL.Test\StationaryStore.DAL.Test.csproj", "{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationaryStore.DAL", "StationaryStore.DAL\StationaryStore.DAL.csproj", "{A6A16A55-2F4B-475A-A620-947E1B4CD1FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{61371BD5-C4BF-44F9-9A78-9E0E0973AB1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationaryStore.API.Test", "Tests\StationaryStore.API.Test\StationaryStore.API.Test.csproj", "{F85898D8-A1B8-4A1C-B660-3D8E8096C81E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StationaryStore.DAL.Test", "Tests\StationaryStore.DAL.Test\StationaryStore.DAL.Test.csproj", "{909A6295-4236-47A9-A4C2-7227FF091F86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,21 +33,21 @@ Global
 		{A6A16A55-2F4B-475A-A620-947E1B4CD1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6A16A55-2F4B-475A-A620-947E1B4CD1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6A16A55-2F4B-475A-A620-947E1B4CD1FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DC679C7D-25C4-4D7C-BA41-6AA8299C0475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC679C7D-25C4-4D7C-BA41-6AA8299C0475}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DC679C7D-25C4-4D7C-BA41-6AA8299C0475}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC679C7D-25C4-4D7C-BA41-6AA8299C0475}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85898D8-A1B8-4A1C-B660-3D8E8096C81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85898D8-A1B8-4A1C-B660-3D8E8096C81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85898D8-A1B8-4A1C-B660-3D8E8096C81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85898D8-A1B8-4A1C-B660-3D8E8096C81E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909A6295-4236-47A9-A4C2-7227FF091F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909A6295-4236-47A9-A4C2-7227FF091F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909A6295-4236-47A9-A4C2-7227FF091F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909A6295-4236-47A9-A4C2-7227FF091F86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{DC679C7D-25C4-4D7C-BA41-6AA8299C0475} = {61371BD5-C4BF-44F9-9A78-9E0E0973AB1E}
-		{50ECB5DD-2AC9-4B30-B132-F257B86E2ECF} = {61371BD5-C4BF-44F9-9A78-9E0E0973AB1E}
+		{F85898D8-A1B8-4A1C-B660-3D8E8096C81E} = {61371BD5-C4BF-44F9-9A78-9E0E0973AB1E}
+		{909A6295-4236-47A9-A4C2-7227FF091F86} = {61371BD5-C4BF-44F9-9A78-9E0E0973AB1E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {08A1050B-6843-4CA1-AEF5-08484692AB91}
