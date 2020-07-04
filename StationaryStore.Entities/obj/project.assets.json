@@ -5053,11 +5053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\StationaryStore.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\StationaryStore.Entities.csproj",
       "projectName": "StationaryStore.Entities",
-      "projectPath": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\StationaryStore.Entities.csproj",
+      "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\StationaryStore.Entities.csproj",
       "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\obj\\",
+      "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

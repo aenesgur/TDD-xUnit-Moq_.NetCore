@@ -9153,11 +9153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\StationaryStore.API.csproj",
+      "projectUniqueName": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\StationaryStore.API.csproj",
       "projectName": "StationaryStore.API",
-      "projectPath": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\StationaryStore.API.csproj",
+      "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\StationaryStore.API.csproj",
       "packagesPath": "C:\\Users\\enes.gur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\obj\\",
+      "outputPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -9177,8 +9177,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.DAL\\StationaryStore.DAL.csproj": {
-              "projectPath": "C:\\Users\\enes.gur\\Desktop\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.DAL\\StationaryStore.DAL.csproj"
+            "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.DAL\\StationaryStore.DAL.csproj": {
+              "projectPath": "C:\\Users\\enes.gur\\Desktop\\Enes\\My_Projects\\NetCore-TDD-Mongo-Rest\\StationeryStore\\StationaryStore.DAL\\StationaryStore.DAL.csproj"
             }
           }
         }
